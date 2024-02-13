@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_bGqXkMlHEe6pt_F6MQyk5w" name="UseCaseExample">
+  <packagedElement xmi:type="uml:Package" xmi:id="_0_BcsMlHEe6pt_F6MQyk5w" name="System">
+    <packagedElement xmi:type="uml:UseCase" xmi:id="__tPS4MlHEe6pt_F6MQyk5w" name="Login Account"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_Han1UMlIEe6pt_F6MQyk5w" name="Order Meal"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_LohZIMlIEe6pt_F6MQyk5w" name="Make Payment"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_Qld0QMlIEe6pt_F6MQyk5w" name="Make Credit Card Payment"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_WElvYMlIEe6pt_F6MQyk5w" name="Make PayPal Payment"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_6cRIgMlHEe6pt_F6MQyk5w" name="Customer"/>
+</uml:Model>

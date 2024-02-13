@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;UseCaseExample/UseCaseExample.di&apos; to &apos;FoodOrderSystem.di&apos;" description="Rename resource &apos;UseCaseExample.di&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="UseCaseExample.di" name="FoodOrderSystem.di" stamp="1707702034888" updateReferences="true"/>
+</session>
